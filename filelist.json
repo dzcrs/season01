@@ -1485,21 +1485,6 @@
     "MD5": "66542442f25d363a0b802d61c629b27b"
   },
   {
-    "FileName": "launcher\\LauncherCrias.exe",
-    "Size": 1158144,
-    "MD5": "64611af090ee75f63fcda4c2eb936454"
-  },
-  {
-    "FileName": "launcher\\LauncherCrias.exe.config",
-    "Size": 189,
-    "MD5": "9dbad5517b46f41dbb0d8780b20ab87e"
-  },
-  {
-    "FileName": "launcher\\LauncherCrias.pdb",
-    "Size": 36352,
-    "MD5": "bf8692c5e1845fa3d58e8efc7b9e727c"
-  },
-  {
     "FileName": "mods\\@AC-Mod-Pack\\.modversion",
     "Size": 128,
     "MD5": "0fc3822ea3426b8610d46ae1f4a1e6da"
