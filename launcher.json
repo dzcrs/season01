@@ -1,6 +1,6 @@
 {   
 	"Version":"1.00",
-	"FileList":"https://github.com/dzcrs/season01/blob/main/filelist.json",
+	"FileList":"https://dzcrs.github.io/season01/filelist.json",
 	"DownloadUpdate":"http://x/ClientGame/",		
 	"News": []			
 }
