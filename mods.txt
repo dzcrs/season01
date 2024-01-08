@@ -1,18 +1,18 @@
-mods\\@CF
-mods\\@VPPAdminTools
-mods\\@BaseBuildingPlus
-mods\\@Code Lock
-mods\\@MMG Base Storage
-mods\\@Advanced Weapon Scopes
-mods\\@WickedRV
-mods\\@AC-Mod-Pack
-mods\\@Airdrop-Upgraded
-mods\\@DZ-CRIAS-2
-mods\\@Spurgles_BagZ
-mods\\@SobrMods Equipment Pack
-mods\\@UniversalSuppressor
-mods\\@Basic_Territories_Updated
-mods\\@Unknown Ghillie Mod
-mods\\@Community-Online-Tools
-mods\\@TerjePartyMod
-mods\\@Vehicle3PP
+mods\@CF
+mods\@VPPAdminTools
+mods\@BaseBuildingPlus
+mods\@Code Lock
+mods\@MMG Base Storage
+mods\@Advanced Weapon Scopes
+mods\@WickedRV
+mods\@AC-Mod-Pack
+mods\@Airdrop-Upgraded
+mods\@DZ-CRIAS-2
+mods\@Spurgles_BagZ
+mods\@SobrMods Equipment Pack
+mods\@UniversalSuppressor
+mods\@Basic_Territories_Updated
+mods\@Unknown Ghillie Mod
+mods\@Community-Online-Tools
+mods\@TerjePartyMod
+mods\@Vehicle3PP
