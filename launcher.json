@@ -2,6 +2,6 @@
 	"Version":"1.00",
 	"FileList":"https://dzcrs.github.io/season01/filelist.json",
 	"DownloadUpdate":"http://x/ClientGame/",		
-	"mods":"https://dzcrs.github.io/season01/mods.txt"
+	"mods":"https://dzcrs.github.io/season01/mods.txt",
 	"News": []			
 }
