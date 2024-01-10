@@ -30,21 +30,6 @@
     "MD5": "07d62054afcf76e064a12385dfd4ef10"
   },
   {
-    "FileName": "LauncherCrias.exe.config",
-    "Size": 189,
-    "MD5": "9dbad5517b46f41dbb0d8780b20ab87e"
-  },
-  {
-    "FileName": "LauncherCrias.pdb",
-    "Size": 40448,
-    "MD5": "76545fc8dec25e96d2103e204471df40"
-  },
-  {
-    "FileName": "nickname.ini",
-    "Size": 9,
-    "MD5": "671e6bc64a0d3b9536af0eb5aa27760a"
-  },
-  {
     "FileName": "steam_api64.dll",
     "Size": 834560,
     "MD5": "30091b91923d9583a54a93ed1145554b"
