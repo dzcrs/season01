@@ -16,4 +16,3 @@ mods\@Unknown Ghillie Mod
 mods\@Community-Online-Tools
 mods\@TerjePartyMod
 mods\@Vehicle3PP
-mods\@PackCarros
