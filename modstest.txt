@@ -14,6 +14,5 @@ mods\@UniversalSuppressor
 mods\@Basic_Territories_Updated
 mods\@Unknown Ghillie Mod
 mods\@Community-Online-Tools
-mods\@TerjePartyMod
 mods\@Vehicle3PP
 mods\@SchanaParty
