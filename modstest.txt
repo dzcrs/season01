@@ -16,4 +16,4 @@ mods\@Unknown Ghillie Mod
 mods\@Community-Online-Tools
 mods\@Vehicle3PP
 mods\@SchanaParty
-mods\@PristineRepair
+mods\@RepairToPristine
