@@ -1948,20 +1948,7 @@
     "Size": 949,
     "MD5": "69c887ac58251577a75c5a956de84029",
     "LastModified": "2023-12-13T13:12:27.4340824-03:00"
-  },
-  {
-    "FileName": "mods\\@Airdrop-Upgraded\\1\\Airdrop\\!!! THE FILES BEING LOADED ARE IN THE PROFILE » AIRDROP FOLDER !!!",
-    "Size": 0,
-    "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-    "LastModified": "2023-12-13T13:12:27.7942092-03:00"
-  },
-  {
-    "FileName": "mods\\@Airdrop-Upgraded\\1\\Airdrop\\!!! THESE FILES ARE FOR REFERENCE ONLY -  EDITING HAS NO EFFECT !!!",
-    "Size": 0,
-    "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-    "LastModified": "2023-12-13T13:12:27.8021275-03:00"
-  },
-  {
+  },{
     "FileName": "mods\\@Airdrop-Upgraded\\1\\Airdrop\\AirdropSafezones.json",
     "Size": 492,
     "MD5": "9ab41f61ac4d000ffad9681a87789261",
