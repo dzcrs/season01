@@ -17,3 +17,4 @@ mods\@Community-Online-Tools
 mods\@Vehicle3PP
 mods\@SchanaParty
 mods\@RepairToPristine
+mods\@TraderPlus
