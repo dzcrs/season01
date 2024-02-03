@@ -18,4 +18,3 @@ mods\@Vehicle3PP
 mods\@SchanaParty
 mods\@RepairToPristine
 mods\@TraderPlus
-mods\@ZnationChern
