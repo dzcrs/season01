@@ -1770,30 +1770,6 @@
     "LastModified": "2023-12-04T12:53:00.7422501-03:00"
   },
   {
-    "FileName": "launcher\\LauncherCrias.exe",
-    "Size": 1163264,
-    "MD5": "fc76ee7f7771ad17c19bc27958e62189",
-    "LastModified": "2023-12-19T01:43:54-03:00"
-  },
-  {
-    "FileName": "launcher\\LauncherCrias.exe.config",
-    "Size": 189,
-    "MD5": "9dbad5517b46f41dbb0d8780b20ab87e",
-    "LastModified": "2023-12-17T18:12:14-03:00"
-  },
-  {
-    "FileName": "launcher\\LauncherCrias.pdb",
-    "Size": 40448,
-    "MD5": "76545fc8dec25e96d2103e204471df40",
-    "LastModified": "2023-12-19T01:43:54-03:00"
-  },
-  {
-    "FileName": "launcher\\steam_api64.dll",
-    "Size": 1958912,
-    "MD5": "c7ce820020b0900eb44d2a72f2ab9294",
-    "LastModified": "2024-01-22T10:01:54.8953309-03:00"
-  },
-  {
     "FileName": "mods\\@AC-Mod-Pack\\.modversion",
     "Size": 128,
     "MD5": "0fc3822ea3426b8610d46ae1f4a1e6da",
